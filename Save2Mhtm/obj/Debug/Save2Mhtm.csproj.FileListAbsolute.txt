@@ -1,0 +1,14 @@
+C:\Users\dark5\source\repos\Save2Mhtm\Save2Mhtm\bin\Debug\Save2Mhtm.exe
+C:\Users\dark5\source\repos\Save2Mhtm\Save2Mhtm\bin\Debug\Save2Mhtm.pdb
+C:\Users\dark5\source\repos\Save2Mhtm\Save2Mhtm\obj\Debug\Save2Mhtm.csproj.AssemblyReference.cache
+C:\Users\dark5\source\repos\Save2Mhtm\Save2Mhtm\obj\Debug\Save2Mhtm.Form1.resources
+C:\Users\dark5\source\repos\Save2Mhtm\Save2Mhtm\obj\Debug\Save2Mhtm.Properties.Resources.resources
+C:\Users\dark5\source\repos\Save2Mhtm\Save2Mhtm\obj\Debug\Save2Mhtm.csproj.GenerateResource.cache
+C:\Users\dark5\source\repos\Save2Mhtm\Save2Mhtm\obj\Debug\Save2Mhtm.csproj.CoreCompileInputs.cache
+C:\Users\dark5\source\repos\Save2Mhtm\Save2Mhtm\obj\Debug\Save2Mhtm.exe
+C:\Users\dark5\source\repos\Save2Mhtm\Save2Mhtm\obj\Debug\Save2Mhtm.pdb
+C:\Users\dark5\source\repos\Save2Mhtm\Save2Mhtm\obj\Debug\Interop.ADODB.dll
+C:\Users\dark5\source\repos\Save2Mhtm\Save2Mhtm\obj\Debug\Save2Mhtm.csproj.ResolveComReference.cache
+C:\Users\dark5\source\repos\Save2Mhtm\Save2Mhtm\obj\Debug\Save2Mhtm.csproj.CopyComplete
+C:\Users\dark5\source\repos\Save2Mhtm\Save2Mhtm\bin\Debug\Save2Mhtm.exe.config
+C:\Users\dark5\source\repos\Save2Mhtm\Save2Mhtm\bin\Debug\ChilkatDotNet46.dll
